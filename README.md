@@ -4,6 +4,8 @@ KHSavant is a small webapp made with Vue.js and CoreUI to display achievements f
 
 This helps keeping track easily of what you are missing from each game, as achievements can be easily confused between two games in the same collection.
 
+[KHSavant is live on my website!](https://blobdash.fr/khsavant/)
+
 This is my first ever Vue.js project, and the code is likely very bad. Sorry for what you read in there!
 
 ### Running
